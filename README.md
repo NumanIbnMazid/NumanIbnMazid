@@ -3,13 +3,13 @@
 
 <div align="center">
     <p>
-        <a href="https://github.com/NumanIbnMazid">
+        <a href="https://www.github.com/NumanIbnMazid">
             <img 
                  src="https://img.shields.io/github/followers/NumanIbnMazid?label=follow&amp;style=social" 
                  alt="GitHub Numan Ibn Mazid" 
             />
         </a>
-        <a href="https://www.linkedin.com/in/numanibnmazid/">
+        <a href="https://www.linkedin.com/in/numanibnmazid">
             <img 
                  src="https://img.shields.io/badge/-numanibnmazid-blue?style=flat-square&amp;logo=Linkedin&amp;logoColor=white&amp;link=https://www.linkedin.com/in/numanibnmazid/" 
                  alt="Linkedin: Numan Ibn Mazid" 
@@ -17,20 +17,26 @@
         </a>
         <a href="https://www.youtube.com/c/NumanIbnMazid">
             <img 
-                 src="https://img.shields.io/badge/-Numan Ibn Mazid-red?style=flat-square&amp;logo=Youtube&amp;logoColor=white&amp;link=https://www.youtube.com/c/NumanIbnMazid" 
+                 src="https://img.shields.io/badge/-NumanIbnMazid-red?style=flat-square&amp;logo=Youtube&amp;logoColor=white&amp;link=https://www.youtube.com/c/NumanIbnMazid" 
                  alt="YouTube: Numan Ibn Mazid" 
             />
         </a>
-        <a href="https://twitter.com/NumanIbnMazid">
+        <a href="https://www.twitter.com/NumanIbnMazid">
             <img 
                  src="https://img.shields.io/twitter/follow/NumanIbnMazid?style=social" 
                  alt="Twitter: Numan Ibn Mazid" 
             />
         </a>
+        <a href="https://www.facebook.com/NumanIbnMazid">
+            <img 
+                 src="https://img.shields.io/facebook/follow/NumanIbnMazid?style=social" 
+                 alt="Facebook: Numan Ibn Mazid" 
+            />
+        </a>
     </p>
     <p>
         <img 
-             src="https://github-readme-stats.vercel.app/api?username=NumanIbnMazid&hide=issues&count_private=true&&hide_border=true&include_all_commits=false&show_icons=true&theme=calm" 
+             src="https://www.github-readme-stats.vercel.app/api?username=NumanIbnMazid&hide=issues&count_private=true&&hide_border=true&include_all_commits=false&show_icons=true&theme=calm" 
         />
     </p>
 </div>
