@@ -17,7 +17,7 @@
         </a>
         <a href="https://www.youtube.com/c/NumanIbnMazid">
             <img 
-                 src="https://img.shields.io/youtube/follow/https://www.youtube.com/c/NumanIbnMazid?style=social" 
+                 src="https://img.shields.io/badge/-YouTube-red?style=flat-square&amp;logo=Linkedin&amp;logoColor=white&amp;link=https://www.youtube.com/c/NumanIbnMazid" 
                  alt="YouTube: Numan Ibn Mazid" 
             />
         </a>
@@ -34,10 +34,6 @@
         />
     </p>
 </div>
-
-<script src="https://apis.google.com/js/platform.js"></script>
-
-<div class="g-ytsubscribe" data-channel="GoogleDevelopers" data-layout="default" data-count="default"></div>
 
 - 🌱 I’m currently working on Web Backend Development and System Design.
 - 🔭 I’m currently learning Applied Machine Learning and Data Driven Analysis for solving real life problems.
