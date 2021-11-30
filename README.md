@@ -17,7 +17,7 @@
         </a>
         <a href="https://www.youtube.com/c/NumanIbnMazid">
             <img 
-                 src="https://img.shields.io/badge/-YouTube-red?style=flat-square&amp;logo=Linkedin&amp;logoColor=white&amp;link=https://www.youtube.com/c/NumanIbnMazid" 
+                 src="https://img.shields.io/badge/-Numan Ibn Mazid-red?style=flat-square&amp;logo=Youtube&amp;logoColor=white&amp;link=https://www.youtube.com/c/NumanIbnMazid" 
                  alt="YouTube: Numan Ibn Mazid" 
             />
         </a>
