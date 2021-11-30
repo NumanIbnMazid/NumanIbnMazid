@@ -5,31 +5,31 @@
     <p>
         <a href="https://www.github.com/NumanIbnMazid">
             <img 
-                 src="https://img.shields.io/github/followers/NumanIbnMazid?label=follow&amp;style=social" 
+                 src="https://www.img.shields.io/github/followers/NumanIbnMazid?label=follow&amp;style=social" 
                  alt="GitHub Numan Ibn Mazid" 
             />
         </a>
         <a href="https://www.linkedin.com/in/numanibnmazid">
             <img 
-                 src="https://img.shields.io/badge/-numanibnmazid-blue?style=flat-square&amp;logo=Linkedin&amp;logoColor=white&amp;link=https://www.linkedin.com/in/numanibnmazid/" 
+                 src="https://www.img.shields.io/badge/-numanibnmazid-blue?style=flat-square&amp;logo=Linkedin&amp;logoColor=white&amp;link=https://www.linkedin.com/in/numanibnmazid" 
                  alt="Linkedin: Numan Ibn Mazid" 
             />
         </a>
         <a href="https://www.youtube.com/c/NumanIbnMazid">
             <img 
-                 src="https://img.shields.io/badge/-NumanIbnMazid-red?style=flat-square&amp;logo=Youtube&amp;logoColor=white&amp;link=https://www.youtube.com/c/NumanIbnMazid" 
+                 src="https://www.img.shields.io/badge/-NumanIbnMazid-red?style=flat-square&amp;logo=Youtube&amp;logoColor=white&amp;link=https://www.youtube.com/c/NumanIbnMazid" 
                  alt="YouTube: Numan Ibn Mazid" 
             />
         </a>
         <a href="https://www.twitter.com/NumanIbnMazid">
             <img 
-                 src="https://img.shields.io/twitter/follow/NumanIbnMazid?style=social" 
+                 src="https://www.img.shields.io/twitter/follow/NumanIbnMazid?style=social" 
                  alt="Twitter: Numan Ibn Mazid" 
             />
         </a>
         <a href="https://www.facebook.com/NumanIbnMazid">
             <img 
-                 src="https://img.shields.io/facebook/follow/NumanIbnMazid?style=social" 
+                 src="https://www.img.shields.io/badge/-NumanIbnMazid-blue?style=flat-square&amp;logo=Facebook&amp;logoColor=white&amp;link=https://www.facebook.com/NumanIbnMazid" 
                  alt="Facebook: Numan Ibn Mazid" 
             />
         </a>
