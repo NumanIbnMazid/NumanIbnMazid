@@ -15,16 +15,16 @@
                  alt="Linkedin: Numan Ibn Mazid" 
             />
         </a>
+        <a href="https://www.youtube.com/c/NumanIbnMazid">
+            <img 
+                 src="https://img.shields.io/badge/-NumanIbnMazid-red?style=flat-square&amp;labelColor=0A0A0A&amp;logo=Youtube&amp;link=https://www.youtube.com/c/NumanIbnMazid" 
+                 alt="Youtube: Numan Ibn Mazid" 
+            />
+        </a>
         <a href="https://twitter.com/NumanIbnMazid">
             <img 
                  src="https://img.shields.io/twitter/follow/NumanIbnMazid?style=social" 
                  alt="Twitter: Numan Ibn Mazid" 
-            />
-        </a>
-        <a href="https://www.youtube.com/c/NumanIbnMazid">
-            <img 
-                 src="https://img.shields.io/badge/-NumanIbnMazid-black?style=flat-square&amp;labelColor=0A0A0A&amp;logo=dev.to&amp;link=https://www.youtube.com/c/NumanIbnMazid" 
-                 alt="Youtube: Numan Ibn Mazid" 
             />
         </a>
     </p>
