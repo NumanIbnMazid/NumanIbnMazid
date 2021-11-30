@@ -3,7 +3,7 @@
 
 <div align="center">
     <p>
-        <a href="https://github.com/Rizwan-Hasan">
+        <a href="https://github.com/NumanIbnMazid">
             <img 
                  src="https://img.shields.io/github/followers/NumanIbnMazid?label=follow&amp;style=social" 
                  alt="GitHub Numan Ibn Mazid" 
