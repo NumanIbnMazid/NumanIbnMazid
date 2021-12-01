@@ -52,10 +52,3 @@ and development.
     <img align="center" alt="Numan Ibn Mazid's Github Stats"
             src="https://gitreadmestats.vercel.app/api/top-langs/?username=NumanIbnMazid&layout=compact&&hide_border=true&theme=radical" />
 </div>
-
-<a href="https://github.com/NumanIbnMazid/github-readme-stats">
-  <img align="center" src="https://gitreadmestats.vercel.app/api/pin/?username=NumanIbnMazid&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/NumanIbnMazid/convoychat">
-  <img align="center" src="https://gitreadmestats.vercel.app/api/pin/?username=NumanIbnMazid&repo=convoychat" />
-</a>
