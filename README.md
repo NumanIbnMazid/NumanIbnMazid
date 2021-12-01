@@ -4,7 +4,7 @@
 <div align="center">
     <p>
         <a href="https://github.com/NumanIbnMazid/github-profile-views-counter">
-            <img src="https://komarev.com/ghpvc/?username=antonkomarev">
+            <img src="https://komarev.com/ghpvc/?username=NumanIbnMazid">
         </a>
         <a href="https://github.com/NumanIbnMazid">
             <img 
