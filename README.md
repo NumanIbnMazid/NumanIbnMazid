@@ -52,3 +52,5 @@ and development.
     <img align="center" alt="Numan Ibn Mazid's Github Stats"
             src="https://gitreadmestats.vercel.app/api/top-langs/?username=NumanIbnMazid&layout=compact&&hide_border=true&theme=radical" />
 </div>
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=NumanIbnMazid)](https://github.com/NumanIbnMazid/github-readme-stats)
