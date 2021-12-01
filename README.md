@@ -40,8 +40,12 @@ and development.
 - 😄 Pronouns: njʉ́wmən
 - ⚡ Fun fact: I love to play guitar and variety of musical instruments, sing, play football, play games and watch movies.
 
-<summary>:zap: Github Stats</summary>
-<img align="left" alt="Numan Ibn Mazid's Github Stats"
+<br>
+
+<div align="center">
+    <summary>:zap: Github Stats</summary>
+    <img align="left" alt="Numan Ibn Mazid's Github Stats"
             src="https://gitreadmestats.vercel.app/api?username=NumanIbnMazid&show_icons=true&hide_border=true&theme=radical" />
-<img align="right" alt="Numan Ibn Mazid's Github Stats"
+    <img align="right" alt="Numan Ibn Mazid's Github Stats"
             src="https://gitreadmestats.vercel.app/api/top-langs/?username=NumanIbnMazid&layout=compact&&hide_border=true&theme=radical" />
+</div>
