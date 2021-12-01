@@ -38,19 +38,13 @@
         </a>
     </p>
     <p>
-        <img 
-             src="https://github-readme-stats.vercel.app/api?username=NumanIbnMazid&hide=issues&count_private=true&&hide_border=true&include_all_commits=false&show_icons=true&theme=calm" 
-        />
+        # github stats
+        <summary>:zap: Github Stats</summary>
+            <img align="left" alt="Numan Ibn Mazid's Github Stats" src="https://gitreadmestats.vercel.app/api?username=NumanIbnMazid&show_icons=true&hide_border=true&theme=radical" />
+        <br>
+        <img align="left" alt="Numan Ibn Mazid's Github Stats" src="https://gitreadmestats.vercel.app/api/top-langs/?username=NumanIbnMazid&layout=compact&&hide_border=true&theme=radical" />
     </p>
 </div>
-
-# github stats
-<summary>:zap: Github Stats</summary>
-<img align="left" alt="Ping543f's Github Stats" src="https://gitreadmestats.vercel.app/api?username=ping543f&show_icons=true&hide_border=true&theme=radical" />
-<br>
-
-
-<img align="left" alt="Ping543f's Github Stats" src="https://gitreadmestats.vercel.app/api/top-langs/?username=ping543f&layout=compact&&hide_border=true&theme=radical" />
 
 - 🌱 I’m currently working on Web Backend Development and System Design.
 - 🔭 I’m currently learning Applied Machine Learning and Data Driven Analysis for solving real life problems.
