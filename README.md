@@ -3,7 +3,7 @@
 
 <div align="center">
     <p>
-        <a href="https://github.com/NumanIbnMazid/github-profile-views-counter">
+        <a href="https://github.com/NumanIbnMazid">
             <img src="https://komarev.com/ghpvc/?username=NumanIbnMazid">
         </a>
         <a href="https://github.com/NumanIbnMazid">
