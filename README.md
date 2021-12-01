@@ -11,7 +11,7 @@
         </a>
         <a href="https://linkedin.com/in/numanibnmazid">
             <img 
-                 src="https://img.shields.io/badge/-numanibnmazid-blue?style=flat-square&amp;logo=Linkedin&amp;logoColor=white&amp;link=https://linkedin.com/in/numanibnmazid" 
+                 src="https://img.shields.io/badge/-numanibnmazid-0a66c2?style=flat-square&amp;logo=Linkedin&amp;logoColor=white&amp;link=https://linkedin.com/in/numanibnmazid" 
                  alt="Linkedin: Numan Ibn Mazid" 
             />
         </a>
@@ -29,7 +29,7 @@
         </a>
         <a href="https://facebook.com/NumanIbnMazid">
             <img 
-                 src="https://img.shields.io/badge/-NumanIbnMazid-blue?style=flat-square&amp;logo=Facebook&amp;logoColor=white&amp;link=https://facebook.com/NumanIbnMazid" 
+                 src="https://img.shields.io/badge/-NumanIbnMazid-1094f4?style=flat-square&amp;logo=Facebook&amp;logoColor=white&amp;link=https://facebook.com/NumanIbnMazid" 
                  alt="Facebook: Numan Ibn Mazid" 
             />
         </a>
