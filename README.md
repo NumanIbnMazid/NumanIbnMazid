@@ -4,13 +4,13 @@
 <div align="center">
     <p>
         <a href="https://github.com/NumanIbnMazid">
-            <img src="https://komarev.com/ghpvc/?username=NumanIbnMazid">
-        </a>
-        <a href="https://github.com/NumanIbnMazid">
             <img 
                  src="https://img.shields.io/github/followers/NumanIbnMazid?label=follow&amp;style=social" 
                  alt="GitHub Numan Ibn Mazid" 
             />
+        </a>
+        <a href="https://github.com/NumanIbnMazid">
+            <img src="https://komarev.com/ghpvc/?username=NumanIbnMazid">
         </a>
         <a href="https://linkedin.com/in/numanibnmazid">
             <img 
