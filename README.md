@@ -20,7 +20,7 @@
         </a>
         <a href="https://youtube.com/c/NumanIbnMazid">
             <img 
-                 src="https://freshidea.com/jonah/youtube-api/view-count-badge.php?label=View+Count&style=for-the-badge&color=blue&labelColor=0b689d" 
+                 src="https://img.shields.io/badge/-NumanIbnMazid-ff0000?style=flat-square&amp;logo=Youtube&amp;logoColor=white&amp;link=https://youtube.com/c/NumanIbnMazid" 
                  alt="YouTube: Numan Ibn Mazid" 
             />
         </a>
