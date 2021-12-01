@@ -30,9 +30,9 @@
 </div>
 
 <summary>:zap: Github Stats</summary>
-    <img align="left" alt="Numan Ibn Mazid's Github Stats"
+<img alt="Numan Ibn Mazid's Github Stats"
             src="https://gitreadmestats.vercel.app/api?username=NumanIbnMazid&show_icons=true&hide_border=true&theme=radical" />
-    <img align="right" alt="Numan Ibn Mazid's Github Stats"
+<img alt="Numan Ibn Mazid's Github Stats"
             src="https://gitreadmestats.vercel.app/api/top-langs/?username=NumanIbnMazid&layout=compact&&hide_border=true&theme=radical" />
 
 <br>
