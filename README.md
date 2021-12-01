@@ -41,7 +41,7 @@ and development.
 - ⚡ Fun fact: I love to play guitar and variety of musical instruments, sing, play football, play games and watch movies.
 
 <div align="center">
-    GitHub Stats
+    :zap: Github Stats
 </div>
 
 <br>
