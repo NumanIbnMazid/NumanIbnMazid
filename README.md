@@ -44,6 +44,14 @@
     </p>
 </div>
 
+# github stats
+<summary>:zap: Github Stats</summary>
+<img align="left" alt="Ping543f's Github Stats" src="https://gitreadmestats.vercel.app/api?username=ping543f&show_icons=true&hide_border=true&theme=radical" />
+<br>
+
+
+<img align="left" alt="Ping543f's Github Stats" src="https://gitreadmestats.vercel.app/api/top-langs/?username=ping543f&layout=compact&&hide_border=true&theme=radical" />
+
 - 🌱 I’m currently working on Web Backend Development and System Design.
 - 🔭 I’m currently learning Applied Machine Learning and Data Driven Analysis for solving real life problems.
 - 👯 I’m looking to collaborate on Data Science, Applied Machine Learning & Web Backend Development related researches and development.
