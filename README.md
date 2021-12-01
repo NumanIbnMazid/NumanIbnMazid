@@ -40,13 +40,13 @@
     <p>
         <summary>:zap: Github Stats</summary>
             <img align="left" alt="Numan Ibn Mazid's Github Stats" src="https://gitreadmestats.vercel.app/api?username=NumanIbnMazid&show_icons=true&hide_border=true&theme=radical" />
-        <br>
+        <br />
         <img align="left" alt="Numan Ibn Mazid's Github Stats" src="https://gitreadmestats.vercel.app/api/top-langs/?username=NumanIbnMazid&layout=compact&&hide_border=true&theme=radical" />
-        <br>
+        <br />
     </p>
 </div>
 
-<br>
+<br />
 
 - 🌱 I’m currently working on Web Backend Development and System Design.
 - 🔭 I’m currently learning Applied Machine Learning and Data Driven Analysis for solving real life problems.
