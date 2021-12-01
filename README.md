@@ -38,8 +38,6 @@
     </p>
 </div>
 
-<div style="clear:both; padding-top:23px;"></div>
-
 - 🌱 I’m currently working on Web Backend Development and System Design.
 - 🔭 I’m currently learning Applied Machine Learning and Data Driven Analysis for solving real life problems.
 - 👯 I’m looking to collaborate on Data Science, Applied Machine Learning & Web Backend Development related researches
