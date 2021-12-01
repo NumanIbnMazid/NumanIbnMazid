@@ -44,6 +44,8 @@ and development.
     <summary>:zap: Github Stats</summary>
 </div>
 
+<br>
+
 <div align="center">
     <img align="left" alt="Numan Ibn Mazid's Github Stats"
             src="https://gitreadmestats.vercel.app/api?username=NumanIbnMazid&show_icons=true&hide_border=true&theme=radical" />
