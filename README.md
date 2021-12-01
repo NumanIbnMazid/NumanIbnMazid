@@ -54,8 +54,8 @@ and development.
 </div>
 
 <a href="https://github.com/NumanIbnMazid/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NumanIbnMazid&repo=github-readme-stats" />
+  <img align="center" src="https://gitreadmestats.vercel.app/api/pin/?username=NumanIbnMazid&repo=github-readme-stats" />
 </a>
 <a href="https://github.com/NumanIbnMazid/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NumanIbnMazid&repo=convoychat" />
+  <img align="center" src="https://gitreadmestats.vercel.app/api/pin/?username=NumanIbnMazid&repo=convoychat" />
 </a>
