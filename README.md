@@ -47,14 +47,30 @@ and development.
 
 ```js
 {
-  Languages: ['Python', 'JavaScript', 'GO', 'Dart', 'PHP', 'Java', 'C#'], 
-  Frameworks: ['Django', 'Flask', 'Odoo', 'jQuery', 'HTMX', 'AlpineJS', 'VueJS', 'Quasar', 'ReactJS', 'Flutter', 'Laravel', 'ASP.NET'],
-  Web: ['HTML', 'CSS', 'SCSS', 'Bootstrap', 'TailwindCSS', 'Material Design', 'Ant Design'],
-  Databases: ['PostgreSQL', 'MySQL', 'SQLite', 'NoSQL'],
-  Tools: ['Git', 'Docker', 'Trello', 'Slack', 'ClickUp'],
-  Cloud: ['AWS Lambda', 'AWS API Gateway', 'AWS EC2', 'AWS S3', 'AWS RDS', 'AWS DynamoDB', 'AWS CloudFront', 'AWS CloudWatch', 'DigitalOcean', 'Heroku', 'PythonAnyWhere', 'cPanel'],
-  Methodologies: ['Agile', 'SCRUM', 'DSDM', 'Kanban', 'Waterfall', 'LeanUX'],
-  Others: ['DSA', 'SDLC', 'Software Architechture', 'Design Pattern']
+  Languages: [
+    'Python', 'JavaScript', 'GO', 'Dart', 'PHP', 'Java', 'C#'
+  ], 
+  Frameworks: [
+    'Django', 'Flask', 'Odoo', 'jQuery', 'HTMX', 'AlpineJS', 'VueJS', 'Quasar', 'ReactJS', 'Flutter', 'Laravel', 'ASP.NET'
+  ],
+  Web: [
+    'HTML', 'CSS', 'SCSS', 'Bootstrap', 'TailwindCSS', 'Material Design', 'Ant Design'
+  ],
+  Databases: [
+    'PostgreSQL', 'MySQL', 'SQLite', 'NoSQL'
+  ],
+  Tools: [
+    'Git', 'Docker', 'Trello', 'Slack', 'ClickUp'
+  ],
+  Cloud: [
+    'AWS Lambda', 'AWS API Gateway', 'AWS EC2', 'AWS S3', 'AWS RDS', 'AWS DynamoDB', 'AWS CloudFront', 'AWS CloudWatch', 'DigitalOcean', 'Heroku', 'PythonAnyWhere', 'cPanel'
+  ],
+  Methodologies: [
+    'Agile', 'SCRUM', 'DSDM', 'Kanban', 'Waterfall', 'LeanUX'
+  ],
+  Others: [
+    'DSA', 'SDLC', 'Software Architechture', 'Design Pattern'
+  ]
 }
 ```
 
