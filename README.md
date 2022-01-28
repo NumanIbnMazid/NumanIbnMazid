@@ -73,6 +73,9 @@ and development.
   Others: [
     'DSA', 'SDLC', 'Software Architechture', 'Design Pattern', 'Machine Learning', 'REST API', 'GraphQL',
     'CI/CD'
+  ],
+  'OS': [
+    'Linux (Arch, Debian, Fedora, OpenSUSE)', 'Windows'
   ]
 }
 ```
