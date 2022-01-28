@@ -71,7 +71,7 @@ and development.
     'Agile', 'SCRUM', 'DSDM', 'Kanban', 'Waterfall', 'LeanUX'
   ],
   Others: [
-    'DSA', 'SDLC', 'Software Architechture', 'Design Pattern', Machine Learning, REST API, GraphQL
+    'DSA', 'SDLC', 'Software Architechture', 'Design Pattern', 'Machine Learning', 'REST API', 'GraphQL'
   ]
 }
 ```
