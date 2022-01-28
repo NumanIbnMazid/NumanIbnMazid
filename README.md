@@ -45,7 +45,7 @@ and development.
 
 ## {...} Short Overview
 
-```json
+```js
 {
   Languages: ['Python', 'JavaScript', 'GO', 'Dart', 'PHP', 'Java', 'C#'], 
   Frameworks: ['Django', 'Flask', 'Odoo', 'jQuery', 'HTMX', 'AlpineJS', 'VueJS', 'Quasar', 'ReactJS', 'Flutter', 'Laravel', 'ASP.NET'],
@@ -69,5 +69,4 @@ and development.
             src="https://gitreadmestats.vercel.app/api?username=NumanIbnMazid&show_icons=true&hide_border=true&theme=radical" />
     <img align="center" alt="Numan Ibn Mazid's Github Stats"
             src="https://gitreadmestats.vercel.app/api/top-langs/?username=NumanIbnMazid&layout=compact&&hide_border=true&theme=radical" />
-    <img src="https://github-readme-stats.vercel.app/api/?username=NumanIbnMazid&show_icons=true&title_color=#454441&icon_color=79ff97&text_color=#454441&bg_color=#dedcd7">
 </div>
