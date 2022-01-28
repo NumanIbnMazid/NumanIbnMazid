@@ -53,7 +53,7 @@ and development.
   Databases: ['PostgreSQL', 'MySQL', 'SQLite', 'NoSQL'],
   Tools: ['Git', 'Docker', 'Trello', 'Slack', 'ClickUp'],
   Cloud: ['AWS Lambda', 'AWS API Gateway', 'AWS EC2', 'AWS S3', 'AWS RDS', 'AWS DynamoDB', 'AWS CloudFront', 'AWS CloudWatch', 'DigitalOcean', 'Heroku', 'PythonAnyWhere', 'cPanel'],
-  Methodologies: ['Agile', 'SCRUM', 'DSDM', 'Kanban', 'Waterfall', 'LeanUX']
+  Methodologies: ['Agile', 'SCRUM', 'DSDM', 'Kanban', 'Waterfall', 'LeanUX'],
   Others: ['DSA', 'SDLC', 'Software Architechture', 'Design Pattern']
 }
 ```
