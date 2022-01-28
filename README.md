@@ -61,7 +61,7 @@ and development.
     'PostgreSQL', 'MySQL', 'SQLite', 'NoSQL'
   ],
   Tools: [
-    'Git', 'Docker', 'Trello', 'Slack', 'ClickUp'
+    'Git', 'Github Actions', 'Docker', 'Trello', 'Slack', 'ClickUp'
   ],
   Cloud: [
     'AWS Lambda', 'AWS API Gateway', 'AWS EC2', 'AWS S3', 'AWS RDS', 'AWS DynamoDB', 'AWS CloudFront', 
@@ -71,7 +71,7 @@ and development.
     'Agile', 'SCRUM', 'DSDM', 'Kanban', 'Waterfall', 'LeanUX'
   ],
   Others: [
-    'DSA', 'SDLC', 'Software Architechture', 'Design Pattern', 'Machine Learning', 'REST API', 'GraphQL'
+    'DSA', 'SDLC', 'Software Architechture', 'Design Pattern', 'Machine Learning', 'REST API', 'GraphQL', CI/CD
   ]
 }
 ```
