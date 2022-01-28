@@ -43,6 +43,21 @@ and development.
 - 😄 Pronouns: njʉ́wmən
 - ⚡ Fun fact: I love to play guitar and variety of musical instruments, sing, play football, play games and watch movies.
 
+## {...} Short Overview
+
+```json
+{
+  Languages: ['Python', 'JavaScript', 'GO', 'Dart', 'PHP', 'Java', 'C#'], 
+  Frameworks: ['Django', 'Flask', 'Odoo', 'jQuery', 'HTMX', 'AlpineJS', 'VueJS', 'Quasar', 'ReactJS', 'Flutter', 'Laravel', 'ASP.NET'],
+  Web: ['HTML', 'CSS', 'SCSS', 'Bootstrap', 'TailwindCSS', 'Material Design', 'Ant Design'],
+  Databases: ['PostgreSQL', 'MySQL', 'SQLite', 'NoSQL'],
+  Tools: ['Git', 'Docker', 'Trello', 'Slack', 'ClickUp'],
+  Cloud: ['AWS Lambda', 'AWS API Gateway', 'AWS EC2', 'AWS S3', 'AWS RDS', 'AWS DynamoDB', 'AWS CloudFront', 'AWS CloudWatch', 'DigitalOcean', 'Heroku', 'PythonAnyWhere', 'cPanel'],
+  'Methodologies': ['Agile', 'SCRUM', 'DSDM', 'Kanban', 'Waterfall', 'LeanUX']
+  Others: ['DSA', 'SDLC', 'Software Architechture', 'Design Pattern']
+}
+```
+
 <div align="center">
     :zap: Github Stats
 </div>
@@ -54,4 +69,5 @@ and development.
             src="https://gitreadmestats.vercel.app/api?username=NumanIbnMazid&show_icons=true&hide_border=true&theme=radical" />
     <img align="center" alt="Numan Ibn Mazid's Github Stats"
             src="https://gitreadmestats.vercel.app/api/top-langs/?username=NumanIbnMazid&layout=compact&&hide_border=true&theme=radical" />
+    <img src="https://github-readme-stats.vercel.app/api/?username=NumanIbnMazid&show_icons=true&title_color=#454441&icon_color=79ff97&text_color=#454441&bg_color=#dedcd7">
 </div>
