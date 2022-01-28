@@ -10,12 +10,12 @@
         <a href="https://github.com/NumanIbnMazid">
             <img src="https://komarev.com/ghpvc/?username=NumanIbnMazid">
         </a>
-        <a href="mailto:bdmotaleb33@gmail.com">
-            <img src="https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff">
-        </a>
         <a href="https://linkedin.com/in/numanibnmazid">
             <img src="https://img.shields.io/badge/-numanibnmazid-0a66c2?style=flat-square&amp;logo=Linkedin&amp;logoColor=white&amp;link=https://linkedin.com/in/numanibnmazid"
                 alt="Linkedin: Numan Ibn Mazid" />
+        </a>
+        <a href="mailto:numanibnmazid@gmail.com">
+            <img src="https://img.shields.io/badge/%20Gmail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff">
         </a>
         <a href="https://youtube.com/c/NumanIbnMazid">
             <img src="https://img.shields.io/badge/-NumanIbnMazid-ff0000?style=flat-square&amp;logo=Youtube&amp;logoColor=white&amp;link=https://youtube.com/c/NumanIbnMazid"
