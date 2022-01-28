@@ -43,7 +43,7 @@ and development.
 - 😄 Pronouns: njʉ́wmən
 - ⚡ Fun fact: I love to play guitar and variety of musical instruments, sing, play football, play games and watch movies.
 
-## {...} Short Overview
+## {...} At a Glance
 
 ```js
 {
