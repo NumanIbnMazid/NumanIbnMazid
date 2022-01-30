@@ -64,8 +64,8 @@ and development.
     'Git', 'Github Actions', 'Docker', 'Trello', 'Slack', 'ClickUp'
   ],
   Cloud: [
-    'AWS Lambda', 'AWS API Gateway', 'AWS EC2', 'AWS S3', 'AWS RDS', 'AWS DynamoDB', 'AWS Cognito', 'AWS CloudFront', 
-    'AWS CloudWatch', 'DigitalOcean', 'Heroku', 'PythonAnyWhere', 'cPanel'
+    'AWS Lambda', 'AWS API Gateway', 'AWS EC2', 'AWS S3', 'AWS RDS', 'AWS DynamoDB', 'AWS Cognito', 
+    'AWS CloudFront', 'AWS CloudWatch', 'DigitalOcean', 'Heroku', 'PythonAnyWhere', 'cPanel'
   ],
   Methodologies: [
     'Agile', 'SCRUM', 'DSDM', 'Kanban', 'Waterfall', 'LeanUX'
