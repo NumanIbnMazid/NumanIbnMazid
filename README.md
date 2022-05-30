@@ -48,35 +48,33 @@ and development.
 ```js
 {
   Languages: [
-    'Python', 'JavaScript', 'GO', 'Dart', 'PHP', 'Java', 'C#'
+    'Python', 'JavaScript', 'GO', 'Dart'
   ], 
   Frameworks: [
-    'Django', 'Flask', 'Odoo', 'jQuery', 'HTMX', 'AlpineJS', 'VueJS', 'Quasar', 'ReactJS', 'Flutter', 
-    'Laravel', 'ASP.NET'
+    'Django', 'Flask', 'Odoo', 'jQuery', 'HTMX', 'AlpineJS', 'VueJS', 'Quasar', 'ReactJS', 'Flutter'
   ],
   Web: [
     'HTML', 'CSS', 'SCSS', 'Bootstrap', 'TailwindCSS', 'Material Design', 'Ant Design'
   ],
   Databases: [
-    'PostgreSQL', 'MySQL', 'SQLite', 'NoSQL'
+    'PostgreSQL', 'MySQL', 'SQLite', 'NoSQL', 'AWS DynamoDB', 'Redis'
   ],
   Tools: [
-    'Git', 'Github Actions', 'Docker', 'Trello', 'Slack', 'ClickUp'
+    'Git', 'Github Actions', 'Docker', 'Apache Kafka', 'OpenCV'
   ],
   Cloud: [
-    'AWS Lambda', 'AWS API Gateway', 'AWS EC2', 'AWS S3', 'AWS RDS', 'AWS DynamoDB', 'AWS Cognito', 
-    'AWS CloudFront', 'AWS Route 53' 'AWS CloudWatch', 'DigitalOcean', 'Heroku', 'PythonAnyWhere', 
-    'cPanel'
+    'AWS Lambda', 'AWS API Gateway', 'AWS EC2', 'AWS S3', 'AWS RDS', 'AWS Cognito', 'AWS CloudFront', 
+    'AWS Route 53' 'AWS CloudWatch', 'DigitalOcean', 'Heroku', 'PythonAnyWhere', 'cPanel'
   ],
   Methodologies: [
     'Agile', 'SCRUM', 'DSDM', 'Kanban', 'Waterfall', 'LeanUX'
   ],
   Others: [
     'DSA', 'SDLC', 'Software Architechture', 'Design Pattern', 'Machine Learning', 'REST API', 'GraphQL',
-    'CI/CD'
+    'CI/CD', 'Computer Vision'
   ],
   'OS': [
-    'Linux (Arch, Debian, Fedora, OpenSUSE)', 'Windows'
+    'macOS', 'Linux (Arch, Debian)', 'Windows'
   ]
 }
 ```
