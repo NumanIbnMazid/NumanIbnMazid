@@ -32,52 +32,12 @@
     </p>
 </div>
 
-- 🌱 I’m currently working on Web Backend Development and System Design.
-- 🔭 I’m currently learning Applied Machine Learning and Data Driven Analysis for solving real life problems.
-- 👯 I’m looking to collaborate on Data Science, Applied Machine Learning & Web Backend Development related researches
-and development.
-
 <br>
 
 - 📫 How to reach me: numanibnmazid@gmail.com
 - 😄 Pronouns: njʉ́wmən
 - ⚡ Fun fact: I love to play guitar and variety of musical instruments, sing, play football, play games and watch movies.
 
-## {...} At a Glance
-
-```js
-{
-  Languages: [
-    'Python', 'JavaScript', 'GO', 'Dart'
-  ], 
-  Frameworks: [
-    'Django', 'Flask', 'Odoo', 'jQuery', 'HTMX', 'AlpineJS', 'VueJS', 'Quasar', 'ReactJS', 'Flutter'
-  ],
-  Web: [
-    'HTML', 'CSS', 'SCSS', 'Bootstrap', 'TailwindCSS', 'Material Design', 'Ant Design'
-  ],
-  Databases: [
-    'PostgreSQL', 'MySQL', 'SQLite', 'NoSQL', 'AWS DynamoDB', 'Redis'
-  ],
-  Tools: [
-    'Git', 'Github Actions', 'Docker', 'Apache Kafka', 'OpenCV'
-  ],
-  Cloud: [
-    'AWS Lambda', 'AWS API Gateway', 'AWS EC2', 'AWS S3', 'AWS RDS', 'AWS Cognito', 'AWS CloudFront', 
-    'AWS Route 53' 'AWS CloudWatch', 'DigitalOcean', 'Heroku', 'PythonAnyWhere', 'cPanel'
-  ],
-  Methodologies: [
-    'Agile', 'SCRUM', 'DSDM', 'Kanban', 'Waterfall', 'LeanUX'
-  ],
-  Others: [
-    'DSA', 'SDLC', 'Software Architechture', 'Design Pattern', 'Machine Learning', 'REST API', 'GraphQL',
-    'CI/CD', 'Computer Vision'
-  ],
-  'OS': [
-    'macOS', 'Linux (Arch, Debian)', 'Windows'
-  ]
-}
-```
 
 <div align="center">
     :zap: Github Stats
