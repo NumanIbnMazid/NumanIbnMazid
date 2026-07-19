@@ -41,15 +41,15 @@ Most of this is private, production work. Full history: [nim23.com](https://nim2
 
 ### Tech
 
-**Backend & APIs** — Python · Django · Django REST Framework · FastAPI · PostgreSQL · Redis · Pytest
+**Backend & APIs** - Python · Django · Django REST Framework · FastAPI · PostgreSQL · Redis · Pytest
 
-**Data, Streaming & AI** — Apache Flink · Apache Kafka · Faust · LLM Integration · LangChain · Computer Vision · OpenCV · FFmpeg
+**Data, Streaming & AI** - Apache Flink · Apache Kafka · Faust · LLM Integration · LangChain · Computer Vision · OpenCV · FFmpeg
 
-**Cloud & Infra** — AWS · AWS Lambda · Docker · Kubernetes · GitHub Actions · Bash · Linux · System Architecture
+**Cloud & Infra** - AWS · AWS Lambda · Docker · Kubernetes · GitHub Actions · Bash · Linux · System Architecture
 
-**Web** — TypeScript · JavaScript · React · Next.js · Astro · Tailwind CSS
+**Web** - TypeScript · JavaScript · React · Next.js · Astro · Tailwind CSS
 
-**Delivery** — Agile PM · Stakeholder Management · Risk Management · Technical Project Leadership · System Design · Team Mentorship
+**Delivery** - Agile PM · Stakeholder Management · Risk Management · Technical Project Leadership · System Design · Team Mentorship
 
 ---
 
