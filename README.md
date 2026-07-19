@@ -4,7 +4,7 @@
 
 ### Software Project Lead at Enosis Solutions · Dhaka, BD
 
-Seven years building backends and an AI video platform, now leading delivery — scope, risk, and shipping.
+Seven years building backends and an AI video platform, now leading delivery - scope, risk, and shipping.
 
 <p align="center">
   <a href="https://nim23.com"><img alt="Portfolio — nim23.com" src="https://img.shields.io/badge/Portfolio-nim23.com-2563eb?style=flat-square&logo=googlechrome&logoColor=white"></a>
@@ -27,14 +27,14 @@ I still read the code.
 
 ### Currently
 
-- Leading software delivery at Enosis Solutions — keeping engineers, QA, and clients on one plan across a hybrid team.
+- Leading software delivery at Enosis Solutions = keeping engineers, QA, and clients on one plan across a hybrid team.
 - Open to backend, AI-platform, or delivery-lead roles, remote or Dhaka-based. 📬
 - Keeping my hands in Python, streaming pipelines, and system design between planning cycles.
 
 ### Selected work
 
-- **Tellygraph — SELISE's AI video platform.** Senior engineer. Owned production Python services and Apache Flink pipelines that turned research ML models across vision, NLP, and audio into features running on live video streams.
-- **SkyTrip — serverless airline-booking platform (bdtask).** Built it on AWS, stitching together three global distribution systems. Owned the architecture docs, GDS coordination, and ran code review for the team.
+- **Tellygraph - AI video platform.** Senior engineer. Owned production Python services and Apache Flink pipelines that turned research ML models across vision, NLP, and audio into features running on live video streams.
+- **SkyTrip - serverless airline-booking platform.** Built it on AWS, stitching together three global distribution systems. Owned the architecture docs, GDS coordination, and ran code review for the team.
 - **From ERD to on-site support.** Owned Django products from mapping the client's actual process and drawing the ERDs, through deployment and the on-site support that keeps client relationships alive.
 
 Most of this is private, production work. Full history: [nim23.com](https://nim23.com).
