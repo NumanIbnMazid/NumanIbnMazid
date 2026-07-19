@@ -1,53 +1,64 @@
-## <div align="center">Hey! I'm Numan Ibn Mazid (Numan). <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></div>
-
-
 <div align="center">
-    <p>
-        <a href="https://github.com/NumanIbnMazid">
-            <img src="https://img.shields.io/github/followers/NumanIbnMazid?label=follow&amp;style=social"
-                alt="GitHub Numan Ibn Mazid" />
-        </a>
-        <a href="https://github.com/NumanIbnMazid">
-            <img src="https://komarev.com/ghpvc/?username=NumanIbnMazid">
-        </a>
-        <a href="https://linkedin.com/in/numanibnmazid">
-            <img src="https://img.shields.io/badge/-numanibnmazid-0a66c2?style=flat-square&amp;logo=Linkedin&amp;logoColor=white&amp;link=https://linkedin.com/in/numanibnmazid"
-                alt="Linkedin: Numan Ibn Mazid" />
-        </a>
-        <a href="mailto:numanibnmazid@gmail.com">
-            <img src="https://img.shields.io/badge/%20numanibnmazid@gmail.com-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff">
-        </a>
-        <a href="https://youtube.com/c/NumanIbnMazid">
-            <img src="https://img.shields.io/badge/-NumanIbnMazid-ff0000?style=flat-square&amp;logo=Youtube&amp;logoColor=white&amp;link=https://youtube.com/c/NumanIbnMazid"
-                alt="YouTube: Numan Ibn Mazid" />
-        </a>
-        <a href="https://twitter.com/NumanIbnMazid">
-            <img src="https://img.shields.io/twitter/follow/NumanIbnMazid?style=social"
-                alt="Twitter: Numan Ibn Mazid" />
-        </a>
-        <a href="https://facebook.com/NumanIbnMazid">
-            <img src="https://img.shields.io/badge/-NumanIbnMazid-1094f4?style=flat-square&amp;logo=Facebook&amp;logoColor=white&amp;link=https://facebook.com/NumanIbnMazid"
-                alt="Facebook: Numan Ibn Mazid" />
-        </a>
-    </p>
+
+# Numan Ibn Mazid
+
+### Software Project Lead at Enosis Solutions · Dhaka, BD
+
+Seven years building backends and an AI video platform, now leading delivery — scope, risk, and shipping.
+
+<p align="center">
+  <a href="https://nim23.com"><img alt="Portfolio — nim23.com" src="https://img.shields.io/badge/Portfolio-nim23.com-2563eb?style=flat-square&logo=googlechrome&logoColor=white"></a>
+  <a href="https://linkedin.com/in/numanibnmazid"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-numanibnmazid-2563eb?style=flat-square&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:numanibnmazid@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-numanibnmazid-2563eb?style=flat-square&logo=gmail&logoColor=white"></a>
+  <a href="https://github.com/NumanIbnMazid"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-NumanIbnMazid-2563eb?style=flat-square&logo=github&logoColor=white"></a>
+  <a href="https://twitter.com/NumanIbnMazid"><img alt="X / Twitter" src="https://img.shields.io/badge/X-NumanIbnMazid-2563eb?style=flat-square&logo=x&logoColor=white"></a>
+  <a href="https://youtube.com/c/NumanIbnMazid"><img alt="YouTube" src="https://img.shields.io/badge/YouTube-NumanIbnMazid-2563eb?style=flat-square&logo=youtube&logoColor=white"></a>
+</p>
+
 </div>
 
-<br>
+---
 
-- 📫 How to reach me: numanibnmazid@gmail.com
-- 😄 Pronouns: njʉ́wmən
-- ⚡ Fun fact: I love to play guitar and variety of musical instruments, sing, play football, play games and watch movies.
+### What I do
 
+I spent seven years writing production backends in Python (Django, DRF, FastAPI), plus an AI video platform and an airline-booking platform wired into live GDS inventory. Now I lead delivery on hybrid teams. I turn a fuzzy ask into a scope engineers can build against and clients can hold me to, and I catch risk while it's still cheap to fix.
+
+I still read the code.
+
+### Currently
+
+- Leading software delivery at Enosis Solutions — keeping engineers, QA, and clients on one plan across a hybrid team.
+- Open to backend, AI-platform, or delivery-lead roles, remote or Dhaka-based. 📬
+- Keeping my hands in Python, streaming pipelines, and system design between planning cycles.
+
+### Selected work
+
+- **Tellygraph — SELISE's AI video platform.** Senior engineer. Owned production Python services and Apache Flink pipelines that turned research ML models across vision, NLP, and audio into features running on live video streams.
+- **SkyTrip — serverless airline-booking platform (bdtask).** Built it on AWS, stitching together three global distribution systems. Owned the architecture docs, GDS coordination, and ran code review for the team.
+- **From ERD to on-site support.** Owned Django products from mapping the client's actual process and drawing the ERDs, through deployment and the on-site support that keeps client relationships alive.
+
+Most of this is private, production work. Full history: [nim23.com](https://nim23.com).
+
+### Tech
+
+**Backend & APIs** — Python · Django · Django REST Framework · FastAPI · PostgreSQL · Redis · Pytest
+
+**Data, Streaming & AI** — Apache Flink · Apache Kafka · Faust · LLM Integration · LangChain · Computer Vision · OpenCV · FFmpeg
+
+**Cloud & Infra** — AWS · AWS Lambda · Docker · Kubernetes · GitHub Actions · Bash · Linux · System Architecture
+
+**Web** — TypeScript · JavaScript · React · Next.js · Astro · Tailwind CSS
+
+**Delivery** — Agile PM · Stakeholder Management · Risk Management · Technical Project Leadership · System Design · Team Mentorship
+
+---
+
+Off the keyboard, I play guitar, sing, and turn out for football.
 
 <div align="center">
-    :zap: Github Stats
-</div>
 
-<br>
+**Building in backend or AI platforms, or need a delivery lead? Email me.**
 
-<div align="center">
-    <img align="center" alt="Numan Ibn Mazid's Github Stats"
-            src="https://gitreadmestats.vercel.app/api?username=NumanIbnMazid&show_icons=true&hide_border=true&theme=radical" />
-    <img align="center" alt="Numan Ibn Mazid's Github Stats"
-            src="https://gitreadmestats.vercel.app/api/top-langs/?username=NumanIbnMazid&layout=compact&&hide_border=true&theme=radical" />
+[nim23.com](https://nim23.com) &nbsp;·&nbsp; [numanibnmazid@gmail.com](mailto:numanibnmazid@gmail.com)
+
 </div>
